@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottschmidl
 - 👀 I’m interested in data science, machine learning, hiking, camping, snowboarding, rock cliimbing, and traveling
-- 🌱 I’m currently learning more about data science and machine learing
+- 🌱 I’m currently learning more about data science and machine learning
 - 💞️ I’m looking to collaborate on machine learning projects that have to do with biotech, genomics, health and wellness, nutrition, healthcare
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/scott-schmidl-mle-ds/ ; Email: scottschmidl0326@gmail.com
 - Check out these repos: https://github.com/scottschmidl/Fruits-and-Veggies-Nutrition-Facts (This one is my favorite!) ; https://github.com/scottschmidl/Lifestyle-and-Wellbeing (Just rebooted this one); https://github.com/scottschmidl/supervised-learning-case-study ; https://github.com/scottschmidl/spark-case-study
