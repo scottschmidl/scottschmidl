@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scottschmidl
+- 👋 Hi, I’m Scott Schmidl
 - 👀 I’m interested in data science, machine learning, hiking, camping, snowboarding, rock cliimbing, and traveling
 - 🌱 I’m currently learning more about data science and machine learning
 - 💞️ I’m looking to collaborate on machine learning projects that have to do with biotech, genomics, health and wellness, nutrition, healthcare
