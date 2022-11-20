@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Scott Schmidl
-- I'm currently a data scientist at Zilliant. Zilliant is a software development company HQ'd in Austin, Texas. We work on price optimization for our customers. During this current economic disaster, we have been pivotal in helping companies optimize the prices for their goods and services.
+- I'm currently a data scientist at Zilliant. Zilliant is a software development company HQ'd in Austin, Texas. We work on price optimization for our customers. During the current economic disaster, caused by the current White House, we have been pivotal in helping companies optimize the prices for their goods and services.
 - 👀 I’m interested in data science, machine learning, hiking, camping, snowboarding, rock cliimbing, and traveling
 - I am currently learning Java and JavaScript
 - 🌱 I’m always interested in learning more about data science and machine learning
